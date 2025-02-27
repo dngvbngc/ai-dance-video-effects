@@ -1,6 +1,7 @@
 # AI Dance Video Effects
 
 Video demonstration: https://youtu.be/33-irP4wQTc
+
 This AI filter adds **chakra ball effects** onto moves such as arm stretch and wrist tap to visually enhance dancing videos.
 
 ## How to run
