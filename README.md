@@ -16,5 +16,7 @@ This AI filter adds **chakra ball effects** onto moves such as arm stretch and w
 ## Reference
 
 Template code from:
+
 Youtube: https://youtu.be/06TE_U21FK4?si=kaIuQWPFlhkTo2EI
+
 Github: https://github.com/nicknochnack/MediaPipePoseEstimation
