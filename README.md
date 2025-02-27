@@ -8,6 +8,7 @@ This AI filter adds **chakra ball effects** onto moves such as arm stretch and w
 
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the project: `python effect.py`
+3. Quit/exit: press `q` on your keyboard
 
 ## Debugging
 
